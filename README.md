@@ -1,4 +1,4 @@
-##Integrantes
+#Integrantes
 
 Adrián Ricardo González Muralles - 23512
 
